@@ -736,6 +736,7 @@ img {
   margin-left: 4px;
 }
 .modal-check-item {
+  display: inline-flex;
   width: 16px;
   height: 16px;
   border-radius: 2px;
